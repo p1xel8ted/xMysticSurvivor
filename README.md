@@ -31,6 +31,8 @@
 ## Note
 - Comes bundled with ConfigurationManager allowing you to press F1 and change mod settings in-game.
 
+![ConfigurationManager](https://raw.githubusercontent.com/p1xel8ted/xMysticSurvivor/main/settings.png)
+
 ## Installation
 - Grab the latest release of xMysticSurvivorsTweaks from [here.](https://github.com/p1xel8ted/xMysticSurvivor/releases)
 - Extract the contents of the release zip in to the game directory.<br />(e.g. "**steamapps\common\Beautiful Mystic Survivors**" or "**steamapps\common\Sexy Mystic Survivors**" for Steam).

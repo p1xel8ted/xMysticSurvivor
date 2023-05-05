@@ -13,8 +13,8 @@ namespace xMysticSurvivor
     [BepInPlugin(PluginGuid, PluginName, PluginVersion)]
     public class Plugin : BaseUnityPlugin
     {
-        private const string PluginGuid = "p1xel8ted.sexymysticsurvivor.ultrawide";
-        private const string PluginName = "UltraWide";
+        private const string PluginGuid = "p1xel8ted.sexymysticsurvivor.xmysticsurvivor";
+        private const string PluginName = "xMysticSurvivors Ultra-Wide Fix & Tweaks";
         private const string PluginVersion = "0.0.1";
         internal static ManualLogSource? LOG { get; private set; }
         internal static ConfigEntry<bool>? UltraWide { get; private set; }

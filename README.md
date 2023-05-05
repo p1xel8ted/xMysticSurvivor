@@ -19,6 +19,7 @@
 
 ### Zoom
 - When enabled, zoom in level is adjusted to allow zooming in more, and the maximum zoom-out can be manually configured. The games default is 10. Setting it too high will make unrendered areas visible.
+### Misc
 - Stop trees going transparent when you're behind them or the camera is close to them.
 - Automatically trigger chest's opening when the dialog box appears.
 ### Sound (these are largely personal preference)

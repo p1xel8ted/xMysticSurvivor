@@ -1,7 +1,7 @@
 ### Beautify/Sexy Mystic Survivors Ultra-wide Fix + Tweaks
 
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/F2F2DI3WA)<br>
-[![Github All Releases](https://img.shields.io/github/downloads/p1xel8ted/xMysticSurvivorsTweaks/total.svg)](https://github.com/p1xel8ted/xMysticSurvivorsTweaks/releases)
+[![Github All Releases](https://img.shields.io/github/downloads/p1xel8ted/xMysticSurvivor/total.svg)](https://github.com/p1xel8ted/xMysticSurvivor/releases)
 
 ## Note
 
@@ -31,5 +31,5 @@
 - Comes bundled with ConfigurationManager allowing you to press F1 and change mod settings in-game.
 
 ## Installation
-- Grab the latest release of xMysticSurvivorsTweaks from [here.](https://github.com/p1xel8ted/xMysticSurvivorsTweaks/releases)
+- Grab the latest release of xMysticSurvivorsTweaks from [here.](https://github.com/p1xel8ted/xMysticSurvivor/releases)
 - Extract the contents of the release zip in to the game directory.<br />(e.g. "**steamapps\common\Beautiful Mystic Survivors**" or "**steamapps\common\Sexy Mystic Survivors**" for Steam).
